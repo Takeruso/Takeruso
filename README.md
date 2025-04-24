@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🎓 Bachelor of ICT, Software Technology major @ Swinburne University  
-🧠 Interested in HCI, security, and fullstack development  
+🧠 Interested in fullstack development  
 💻 Vue / Node.js / MySQL / Bootstrap  
 🚀 Currently building a care facility management system  
 🔍 Looking for remote internship opportunities
