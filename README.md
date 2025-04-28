@@ -6,8 +6,10 @@
 🚀 Currently developing a care facility management system for my final year project  
 🔍 Actively looking for internship opportunities in 2025
 
+### Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4f0e8e64-d6f6-4a2d-bc42-3663ac12b895" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/70ac96b6-42e6-41b7-80c7-787d29506510/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/4f0e8e64-d6f6-4a2d-bc42-3663ac12b895/public_url)](https://images.credly.com/size/340x340/images/70ac96b6-42e6-41b7-80c7-787d29506510/aws-certified-cloud-practitioner.png
+)
 
 <!--
 **Takeruso/Takeruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
