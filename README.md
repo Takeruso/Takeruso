@@ -14,7 +14,7 @@
 
 - 🌎 **OECD Freshwater Sustainability Visualizer**  
   Interactive D3.js-based data visualization tool analyzing freshwater sustainability across OECD countries.  
-  [🔗 Live Demo](https://cos-30045-personal-4ogv.vercel.app/) | [📂 GitHub Repository](https://github.com/Takeruso/COS30045-personal)
+  [🔗 Live Demo](https://data-visualisation-d3-js.vercel.app/) | [📂 GitHub Repository](https://github.com/Takeruso/data-visualisation-D3.js)
 
 
 
