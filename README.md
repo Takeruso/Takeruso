@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 🎓 Bachelor of ICT, majoring in Software Technology at Swinburne University  
-🧠 Passionate about fullstack development and modern web technologies  
-💻 Working with Vue, Node.js, MySQL, Bootstrap, PHP, and Python  
+🧠 Passionate about full-stack development and modern web technologies  
+💻 Working with React, TypeScript, Node.js, MySQL, PHP, and Python  
 🚀 Currently developing a care facility management system for my final year project  
 🔍 Actively looking for internship opportunities in 2025
 
