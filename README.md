@@ -15,8 +15,6 @@
   Interactive D3.js-based data visualization tool analyzing freshwater sustainability across OECD countries.  
   [🔗 Live Demo](https://data-visualisation-d3-js.vercel.app/) | [📂 GitHub Repository](https://github.com/Takeruso/data-visualisation-D3.js)
 
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takeruso&layout=compact&theme=tokyonight&hide=html,css)
 
 
 <!--
