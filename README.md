@@ -13,9 +13,8 @@
 - ⚡ **Pokémon Trainer Hub** A full-stack application demonstrating robust REST API architecture, secure authentication, and custom React hooks for separation of concerns.  
   *Tech: React, TypeScript, Node.js, Express, MongoDB* [🔗 Live Demo](https://lambent-dodol-53c843.netlify.app) | [📂 GitHub Repository](https://github.com/Takeruso/pokemon-trainer-hub)
 
-- 🌎 **OECD Freshwater Sustainability Visualizer**  
-  Interactive D3.js-based data visualization tool analyzing freshwater sustainability across OECD countries.  
-  [🔗 Live Demo](https://data-visualisation-d3-js.vercel.app/) | [📂 GitHub Repository](https://github.com/Takeruso/data-visualisation-D3.js)
+- 🌎 **OECD Freshwater Sustainability Visualizer** Interactive D3.js-based data visualization tool analyzing freshwater sustainability across OECD countries.  
+  *Tech: D3.js, JavaScript, HTML/CSS* [🔗 Live Demo](https://data-visualisation-d3-js.vercel.app/) | [📂 GitHub Repository](https://github.com/Takeruso/data-visualisation-D3.js)
 
 - 📊 **RDBMS Performance Comparison** Benchmarking MySQL, MariaDB, and PostgreSQL under high-concurrency workloads using Docker & Sysbench. Analyzed execution plans and storage engine impacts.  
   *Tech: Docker, Python, Sysbench, SQL (MySQL/PostgreSQL)* [📂 GitHub Repository](https://github.com/Takeruso/rdbms-performance-comparison)
