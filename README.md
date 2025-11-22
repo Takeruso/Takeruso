@@ -17,6 +17,8 @@
   Interactive D3.js-based data visualization tool analyzing freshwater sustainability across OECD countries.  
   [🔗 Live Demo](https://data-visualisation-d3-js.vercel.app/) | [📂 GitHub Repository](https://github.com/Takeruso/data-visualisation-D3.js)
 
+- 📊 **RDBMS Performance Comparison** Benchmarking MySQL, MariaDB, and PostgreSQL under high-concurrency workloads using Docker & Sysbench. Analyzed execution plans and storage engine impacts.  
+  *Tech: Docker, Python, Sysbench, SQL (MySQL/PostgreSQL)* [📂 GitHub Repository](https://github.com/Takeruso/rdbms-performance-comparison)
 
 
 <!--
