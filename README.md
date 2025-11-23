@@ -15,7 +15,7 @@
    Tech: HTML, CSS, JavaScript, GitHub Pages  [🔗 Live Demo](https://takeruso.github.io/AIDiversity/) | [📂 GitHub Repository](https://github.com/Takeruso/AIDiversity)
   
 - ⚡ **Pokémon Trainer Hub** A full-stack application demonstrating robust REST API architecture, secure authentication, and custom React hooks for separation of concerns.  
-  *Tech: React, TypeScript, Node.js, Express, MongoDB* [🔗 Live Demo](https://lambent-dodol-53c843.netlify.app) | [📂 GitHub Repository](https://github.com/Takeruso/pokemon-trainer-hub)
+  *Tech: React, TypeScript, Node.js, Express, MongoDB* [🔗 Live Demo](https://pokemon-trainer-hub.vercel.app) | [📂 GitHub Repository](https://github.com/Takeruso/pokemon-trainer-hub)
 
 - 🌎 **OECD Freshwater Sustainability Visualizer** Interactive D3.js-based data visualization tool analyzing freshwater sustainability across OECD countries.  
   *Tech: D3.js, JavaScript, HTML/CSS* [🔗 Live Demo](https://data-visualisation-d3-js.vercel.app/) | [📂 GitHub Repository](https://github.com/Takeruso/data-visualisation-D3.js)
