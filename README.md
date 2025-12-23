@@ -3,7 +3,6 @@
 🎓 Bachelor of ICT, majoring in Software Technology at Swinburne University  
 🧠 Passionate about full-stack development and modern web technologies  
 💻 Working with React, TypeScript, Node.js, and Python  
-🔍 Actively looking for internship opportunities in 2025
 
 ### Certifications
 
