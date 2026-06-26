@@ -10,7 +10,7 @@
 
 ### Projects
 - 🤝 AIDiversity  
-   AI Regulation final project reworked into a public website, explaining AI diversity, fairness, and inclusion for a general audience.  
+   AI Regulation final project reworked into a public website that explains AI diversity, fairness, and inclusion for a general audience.  
    Tech: HTML, CSS, JavaScript, GitHub Pages  [🔗 Live Demo](https://takeruso.github.io/AIDiversity/) | [📂 GitHub Repository](https://github.com/Takeruso/AIDiversity)
   
 - ⚡ **Pokémon Trainer Hub** A full-stack application demonstrating robust REST API architecture, secure authentication, and custom React hooks for separation of concerns.  
