@@ -19,12 +19,3 @@
 - 📊 **RDBMS Performance Comparison** Benchmarking MySQL, MariaDB, and PostgreSQL under high-concurrency workloads using Docker & Sysbench. Analysed execution plans and storage engine impacts.  
   *Tech: Docker, Python, Sysbench, SQL (MySQL/PostgreSQL)* [📂 GitHub Repository](https://github.com/Takeruso/rdbms-performance-comparison)
 
-
-<!--
-**Takeruso/Takeruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
--->
